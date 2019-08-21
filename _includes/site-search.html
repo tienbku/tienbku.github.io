@@ -22,7 +22,12 @@
   function findResults(termToMatch, pages) {
     return pages.filter(item => {
       const regex = new RegExp(termToMatch, 'gi');
-      return item.title.match(regex) || item.content.match(regex);
+      
+      if (item.title.includes('[secret]')) {
+        return false;
+      } else {
+        return (item.title.match(regex) || item.content.match(regex));
+      }
     });
   }
 

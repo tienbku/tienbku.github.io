@@ -35,6 +35,7 @@ a {
 .typeset {
 
   // Nice underlines for text links.
+  /*
   p a, li a {
     background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
     background-position: 0 93%;
@@ -49,6 +50,7 @@ a {
       background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$hoverColour 50%);
     }
   }
+  */
 
   // Paragraphs. OpenType ligatures and oldstyle figures enabled if available.
   p {
