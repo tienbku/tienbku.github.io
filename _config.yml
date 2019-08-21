@@ -43,7 +43,7 @@ social: # jekyll-seo-tag > social overrides
   name: Tien Ng Blog # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.facebook.com/truongtien.bku
-    - https://github.com/tienbku
+    # - https://github.com/tienbku
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -83,9 +83,9 @@ logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Fly on the wings of mind" # Site description and default description, also used in jekyll-seo-tag
 url: "https://tienbku.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/tienbku/tienbku.github.io"
+# repo: "https://github.com/tienbku/tienbku.github.io"
 email: "tien.ngtruong@gmail.com"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+disqus: "tienbku" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 google_analytics: 'UA-83730737-1'
 # google_analytics_anonymize_ip: ''
 # service_worker: false # Will turn off the service worker if set to false
@@ -107,13 +107,13 @@ navigation_header:
   url: /search.html
 
 navigation_footer:
-- title: Tien Nguyen
-  url: https://github.io/tienbku
+# - title: Tien Nguyen
+  # url: https://github.com/tienbku
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   # Twitter: https://twitter.com/tientn
   # LinkedIn: https://www.linkedin.com/in/tientn
-  GitHub: https://github.com/tienbku
+  # GitHub: https://github.com/tienbku
   Facebook: https://www.facebook.com/truongtien.bku
   # link: https://github.com/tienbku
   RSS: /feed.xml
