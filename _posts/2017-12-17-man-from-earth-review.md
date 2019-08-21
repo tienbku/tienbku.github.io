@@ -1,7 +1,7 @@
 ---
 title: Review The man from Earth
 categories:
-- Review-Phim
+- Film
 # excerpt: "Hiện thân của nguyên lý vị nhân phi thần học"
 feature_image: /assets/imgs/the-man-from-earth.jpg
 ---

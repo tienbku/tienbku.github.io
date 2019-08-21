@@ -1,7 +1,7 @@
 ---
 title: "'Steve Jobs: The Man in the Machine' Ending"
 categories:
-- Linh-tinh
+- Misc
 feature_text:
   Mâu thuẫn bên trong sản phẩm và con người Steve Jobs
 ---

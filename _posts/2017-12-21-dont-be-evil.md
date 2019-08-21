@@ -1,7 +1,7 @@
 ---
 title: Đừng có xấu tính
 categories:
-- Linh-tinh
+- Misc
 # excerpt: "Don't be evil!"
 feature_image: /assets/imgs/google-dont-be-evil.jpg
 ---
