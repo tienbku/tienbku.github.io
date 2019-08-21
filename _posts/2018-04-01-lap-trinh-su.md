@@ -2,7 +2,6 @@
 title: Lập Trình Sư
 categories:
 - Tao
-- Programming
 excerpt: "Người là máy, máy là người, khi không có máy thì mọi vật đều là máy, khi có máy thì máy cũng không còn là máy nữa. Làm sao tự lập trình được cho bản ngã mới là công quả vậy."
 feature_image: /assets/imgs/lap-trinh-su.jpg
 ---

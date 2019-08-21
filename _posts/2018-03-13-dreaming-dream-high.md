@@ -2,7 +2,6 @@
 title: Dreaming [Dream High]
 categories:
 - Music
-- Review-Phim
 excerpt: "Full of youth & Energy - Bài hát của tuổi trẻ"
 feature_text: |
   Full of youth & Energy - Bài hát của tuổi trẻ
