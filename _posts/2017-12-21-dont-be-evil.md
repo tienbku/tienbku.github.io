@@ -26,7 +26,7 @@ Rộng hơn nữa, khi khẩu hiệu này lan truyền ra khỏi cty, đến c�
 
 Ở tầng lãnh đạo lèo lái cả một cty, trong quyển "Nội soi Google" – Steven Levy có viết:
 
-![Dont be evil](/assets/imgs/google-dung-co-xau-tinh.png)
+![Dont be evil](/assets/imgs/how-google-works.png)
 
 > Page và Brin là những người tốt, và cty họ tạo dựng cũng phải tốt.
 
