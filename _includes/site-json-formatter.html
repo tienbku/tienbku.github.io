@@ -1,0 +1,65 @@
+<div class="container">
+  <div class="toolcontent">
+    <div class="bar">
+      <input type="radio" name="json-option" value="tab"> Tab |
+      <input type="radio" name="json-option" value="2"> 2 Spaces |
+      <input type="radio" name="json-option" value="4"> 4 Spaces
+      <button type="button" onclick="format();">Format</button><br>
+      <a id="json-download" download="output.json">Download JSON</a>
+    </div>
+    <textarea id="json-input"></textarea>
+    <textarea id="json-output"></textarea><br><br>
+  </div>
+</div>
+
+<script type="text/javascript" src="{{ "/assets/scripts/jsonformat.js" | relative_url }}"></script>
+<script type="text/javascript">
+function format() {
+  var input = document.getElementById("json-input");
+  var output = document.getElementById("json-output");
+  var option = document.getElementsByName("json-option");
+  var link = document.getElementById("json-download");
+
+  for (var i = 0; i < option.length; i++) {
+    if (option[i].checked) {
+      option = option[i].value;
+      break;
+    }
+  }
+
+  output.innerHTML = jsonFormatter(input.value, option);
+  link.href = jsonDownload(input.value, option);
+}
+
+function jsonDownload(json, option) {
+  window.URL = window.URL || window.webkitURL;
+  var json = jsonFormatter(json, option);
+  var blob = new Blob([json], { type: "application/octet-stream" });
+  return window.URL.createObjectURL(blob);
+}
+</script>
+
+<style>
+  body{
+    border-top: 4px solid rgb(177, 50, 0);
+  }
+  .container {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .toolcontent {
+    padding: 0;
+    min-height: 400px;
+    font: 13px Verdana;
+    text-align: justify;
+  }
+  .toolcontent .bar {
+    margin-bottom: 5px;
+  }
+  .toolcontent textarea {
+    height: 400px;
+    width: 100%;
+    background-color: #333333;
+    color: #ffffff;
+  }
+</style>

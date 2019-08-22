@@ -1,7 +1,11 @@
-<input type="file" id="file" /><button type="button" onclick="showImage()">Generate</button>
-  
-<img id="sourceImg" src="" style="width: 100px" />
-<pre id="show"></pre>
+<div class="container">
+  <div class="toolcontent">
+    <input type="file" id="file" /><button type="button" onclick="showImage()">Generate</button>
+  </div>
+
+  <img id="sourceImg" src="" style="width: 100px" />
+  <pre id="show"></pre>
+</div>
 
 <script type="text/javascript" src="{{ "/assets/scripts/tochars.js" | relative_url }}"></script>
 <script type="text/javascript">
@@ -31,3 +35,16 @@ function showImage() {
   };
 }
 </script>
+<style>
+  body{
+    border-top: 4px solid rgb(177, 50, 0);
+  }
+  .container {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .toolcontent {
+    padding: 0;
+    font: 13px Verdana;
+  }
+</style>

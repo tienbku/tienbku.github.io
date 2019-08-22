@@ -105,6 +105,8 @@ navigation_header:
   url: /categories.html
 - title: Search
   url: /search.html
+- title: JsonFormatter
+  url: /json-format.html
 - title: Img2Text
   url: /img2text.html
 
