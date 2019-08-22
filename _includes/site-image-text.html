@@ -1,0 +1,33 @@
+<input type="file" id="file" /><button type="button" onclick="showImage()">Generate</button>
+  
+<img id="sourceImg" src="" style="width: 100px" />
+<pre id="show"></pre>
+
+<script type="text/javascript" src="{{ "/assets/scripts/tochars.js" | relative_url }}"></script>
+<script type="text/javascript">
+var map = getCharsMap(),
+    show = document.getElementById("show"),
+    img = document.getElementById("sourceImg"),
+    canvas = document.createElement("canvas");
+
+function showImage() {
+  var file = document.getElementById("file").files[0];
+  var ctx = canvas.getContext("2d");
+  var url = '';
+
+  if (!file) {
+    alert("Please choose a file!");
+  } else {
+    url = URL.createObjectURL(file);
+    img.src = url;
+    img.onload = function() {
+      canvas.width = img.naturalWidth;
+      canvas.height = img.naturalHeight;
+      ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+      show.style.fontSize = "9px";
+      show.style.lineHeight = "0.63";
+      show.innerText = toChars(ctx, canvas.width, canvas.height, 100);
+    }      
+  };
+}
+</script>

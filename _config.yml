@@ -105,6 +105,8 @@ navigation_header:
   url: /categories.html
 - title: Search
   url: /search.html
+- title: Img2Text
+  url: /img2text.html
 
 navigation_footer:
 # - title: Tien Nguyen
