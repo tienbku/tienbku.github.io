@@ -26,7 +26,6 @@
 
     {% if site.css_inline == true %}
       {% include site-styles.html %}
-      <link rel="stylesheet" href="/assets/css/styles.css">
     {% else %}
       <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
     {% endif %}
