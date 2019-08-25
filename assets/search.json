@@ -11,6 +11,7 @@ sitemap: false
     {% for doc in docs %}
       {
         "title": {{ doc.title | jsonify }},
+        "categories": {{ doc.categories | jsonify }},
         "excerpt": {{ doc.excerpt | markdownify | strip_html | jsonify }},
         "content": {{ doc.content | markdownify | strip_html | jsonify }},
         "url": {{ site.baseurl | append: doc.url | jsonify }}

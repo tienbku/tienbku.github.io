@@ -1,6 +1,6 @@
 ---
-title: '[secret]Love'
-excerpt: "I love you babe!"
+title: 'Love'
+excerpt: "[secret] One year anniversary"
 indexing: false
 ---
 

@@ -23,10 +23,11 @@
     return pages.filter(item => {
       const regex = new RegExp(termToMatch, 'gi');
       
-      if (item.title.includes('[secret]')) {
+      if (item.excerpt.includes('[secret]')) {
         return false;
       } else {
-        return (item.title.match(regex) || item.content.match(regex));
+        const isCategoried = item.categories ? item.categories.toString().toLowerCase().includes(termToMatch.toLowerCase()) : false;
+        return (isCategoried || item.title.match(regex) || item.content.match(regex) || item.excerpt.match(regex));
       }
     });
   }

@@ -101,8 +101,8 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories.html
+- title: Sitemap
+  url: /sitemap.html
 - title: Search
   url: /search.html
 - title: JsonFormatter

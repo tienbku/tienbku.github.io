@@ -1,6 +1,5 @@
 ---
-title: Categories
-layout: categories
+layout: sitemap
 excerpt: "Category index"
 aside: true
 ---
