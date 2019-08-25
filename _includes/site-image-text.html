@@ -4,7 +4,7 @@
   </div>
 
   <img id="sourceImg" src="" style="width: 100px" />
-  <pre id="show"></pre>
+  <div id="show" class="textImg"></div>
 </div>
 
 <script type="text/javascript" src="{{ "/assets/scripts/tochars.js" | relative_url }}"></script>
@@ -28,8 +28,8 @@ function showImage() {
       canvas.width = img.naturalWidth;
       canvas.height = img.naturalHeight;
       ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
-      show.style.fontSize = "9px";
-      show.style.lineHeight = "0.63";
+      show.style.fontSize = "10px";
+      show.style.lineHeight = "0.6";
       show.innerText = toChars(ctx, canvas.width, canvas.height, 100);
     }      
   };
@@ -46,5 +46,10 @@ function showImage() {
   .toolcontent {
     padding: 0;
     font: 13px Verdana;
+  }
+  .textImg {
+    font-family: "Courier New", monospace;
+    white-space: pre;
+    margin-bottom: 20px;
   }
 </style>
