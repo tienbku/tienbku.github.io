@@ -5,9 +5,9 @@
     <li class="item  item--post">
       <article class="article  article--post  typeset">
 
-        <h4><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h4>
+        <h5><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h5>
         {% include post-meta.html %}
-        {{ page.excerpt | markdownify | truncatewords: 20 }}
+        <div style="font-size:15px">{{ page.excerpt | markdownify | truncatewords: 20 }}</div>
 
       </article>
     </li>
