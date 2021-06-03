@@ -34,6 +34,7 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll-redirect-from
 
 # 3. Gem settings
 paginate: 5 # jekyll-paginate > items per page
@@ -97,8 +98,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
+# - title: Home
+#   url: /
 - title: Blog
   url: /blog/
 - title: Sitemap

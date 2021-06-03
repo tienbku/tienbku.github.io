@@ -6,6 +6,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Fly on the wings of mind."
 aside: true
+redirect_to: /blog/
 ---
 
 Just a Blog designed to be a place for sharing thought.
