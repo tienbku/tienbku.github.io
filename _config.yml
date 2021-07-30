@@ -106,6 +106,8 @@ navigation_header:
   url: /sitemap.html
 - title: Search
   url: /search.html
+- title: Youtube Audio
+  url: /youtube-audio.html
 - title: JsonFormatter
   url: /json-format.html
 - title: Img2Text
