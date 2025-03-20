@@ -6,7 +6,7 @@ excerpt: "Tác giả nguyên tác (Đằng Bình) sau khi xem xong phim truyền
 feature_image: /assets/imgs/lien-hoa-lau-feature-image.jpg
 ---
 
-【NGOẠI TRUYỆN|PHẦN 1】CÁT TƯỜNG VÂN LIÊN HOA LÂU: TA NGHE TIẾNG HOA MAI RƠI NGOÀI NÚI
+【NGOẠI TRUYỆN PHẦN 1】CÁT TƯỜNG VÂN LIÊN HOA LÂU: TA NGHE TIẾNG HOA MAI RƠI NGOÀI NÚI
 
 
 Đại mạc hoàng sa kim giáp khai, bất kiến sơn hà động địa lai\
@@ -21,10 +21,9 @@ Ngẩng đầu bạn cũ tựa cát tan, chuyện cũ như sấm đoạn ân đ�
 Ta nghe hoa mai rơi ngoài núi, thập tam thanh* khách nào phải khách.\
 Một kiếm rơi xuống nhẹ tử sinh, biết tử sinh cũng dễ dàng xem nhẹ.\
 
-
 (𝑇ℎ𝑎̣̂𝑝 𝑡𝑎𝑚 𝑡ℎ𝑎𝑛ℎ: 𝑇ℎ𝑜̛̀𝑖 𝑇𝑜̂́𝑛𝑔 Đ𝑢̛𝑜̛̀𝑛𝑔 𝑐𝑜́ 𝑚𝑜̣̂𝑡 𝑙𝑜𝑎̣𝑖 đ𝑎̀𝑛 𝑡𝑟𝑎𝑛ℎ 13 𝑑𝑎̂𝑦, 𝑣𝑖́ 𝑣𝑜𝑛 𝑑𝑢̀𝑛𝑔 đ𝑎̀𝑛 𝑡𝑟𝑎𝑛ℎ 𝑔𝑎̉𝑦 𝑛𝑒̂𝑛 𝑙𝑜̛̀𝑖 𝑎𝑖 𝑜𝑎́𝑛.)
 
---------------------------------
+...
 
 Đây là một tòa nhà bằng gỗ đứng lặng yên trong khu rừng trúc.
 
@@ -162,7 +161,7 @@ Chú chó lông vàng vô cùng tức giận, vừa sủa vừa cắn vào bắp
 
 ....
 
-【NGOẠI TRUYỆN|PHẦN 2】LÝ LIÊN HOA CỦA 'CÁT TƯỜNG VÂN LIÊN HOA LÂU' VĨNH VIỄN CÒN SỐNG!
+【NGOẠI TRUYỆN PHẦN 2】LÝ LIÊN HOA CỦA 'CÁT TƯỜNG VÂN LIÊN HOA LÂU' VĨNH VIỄN CÒN SỐNG!
 
 
 Tiêu Tử Khâm không để ý. Hắn tu luyện cả nội công lẫn ngoại công, cho dù chỉ dựa vào mỗi ngoại công, chú chó này cũng không thể cắn nổi chút da thịt của hắn.
@@ -275,7 +274,7 @@ Ba người kia đột nhiên sững lại. Mỗi người đều tự tay dắt
 
 ...
 
-【NGOẠI TRUYỆN|PHẦN CUỐI】LÝ TƯƠNG DI VĨNH VIỄN KHÔNG BAO GIỜ CHẾT.
+【NGOẠI TRUYỆN PHẦN CUỐI】LÝ TƯƠNG DI VĨNH VIỄN KHÔNG BAO GIỜ CHẾT.
 
 
 Nửa ngày sau, ba người bọn họ dùng công pháp độc nhất vô nhị của mình để dọn dẹp sạch sẽ tòa nhà gỗ đổ nát cùng với căn nhà ngói. Tiêu Tử Khâm đổ mồ hôi đầm đìa, cho dù hơn mười năm trước hắn cùng Lý Tương Di hợp sức diệt địch nhưng cũng chưa từng cảm thấy mệt mỏi như bây giờ. Phương Đa Bệnh bị thương, Thi Văn Tuyệt có ý đồ lừa gạt, thế là công việc dọn dẹp nặng nhọc chỉ có một mình Tiêu môn chủ đảm nhận, cũng là do võ công cao cường đi.
